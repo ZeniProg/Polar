@@ -382,6 +382,7 @@ body {
 }
 
 .form__input:placeholder {
+  color: #0f0000;
   opacity: 0.6;
 }
 
