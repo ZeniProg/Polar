@@ -11,41 +11,6 @@ html {
           box-sizing: inherit;
 }
 
-@font-face {
-  font-family: 'Roboto';
-  src: url(fonts/Roboto-Regular.woff2);
-}
-
-@font-face {
-  font-family: 'Roboto';
-  src: url(fonts/Roboto-Medium.woff2);
-}
-
-@font-face {
-  font-family: 'Hind Madurai';
-  src: url(fonts/HindMadurai-Bold.woff2);
-}
-
-@font-face {
-  font-family: 'Hind Madurai';
-  src: url(fonts/HindMadurai-Medium.woff2);
-}
-
-@font-face {
-  font-family: 'Hind Madurai';
-  src: url(fonts/HindMadurai-Regular.woff2);
-}
-
-@font-face {
-  font-family: 'Hind Madurai';
-  src: url(fonts/HindMadurai-SemiBold.woff2);
-}
-
-@font-face {
-  font-family: 'Fredoka One';
-  src: url(fonts/FredokaOne-Regular.woff2);
-}
-
 body {
   margin: 0;
 }
@@ -530,5 +495,40 @@ body {
 
 .footer-list__link:hover {
   color: #FFFFFF;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url(fonts/Roboto-Regular.woff2);
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url(fonts/Roboto-Medium.woff2);
+}
+
+@font-face {
+  font-family: 'Hind Madurai';
+  src: url(fonts/HindMadurai-Bold.woff2);
+}
+
+@font-face {
+  font-family: 'Hind Madurai';
+  src: url(fonts/HindMadurai-Medium.woff2);
+}
+
+@font-face {
+  font-family: 'Hind Madurai';
+  src: url(fonts/HindMadurai-Regular.woff2);
+}
+
+@font-face {
+  font-family: 'Hind Madurai';
+  src: url(fonts/HindMadurai-SemiBold.woff2);
+}
+
+@font-face {
+  font-family: 'Fredoka One';
+  src: url(fonts/FredokaOne-Regular.woff2);
 }
 /*# sourceMappingURL=main.css.map */
